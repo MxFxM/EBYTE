@@ -10,6 +10,53 @@ All constants were extracted from several data sheets and listed in binary as th
 
 Usage of this library consumes around 970 bytes
 
+## Default Parameters
+
+----------------------------------------<\r><\n>
+
+Model no.: 45<\r><\n>
+
+Version  : D<\r><\n>
+
+Features : 14<\r><\n>
+
+<\r><\n>
+
+Mode (HEX/DEC/BIN): C0/192/11000000<\r><\n>
+
+AddH (HEX/DEC/BIN): 0/0/0<\r><\n>
+
+AddL (HEX/DEC/BIN): 0/0/0<\r><\n>
+
+Sped (HEX/DEC/BIN): 1A/26/11010<\r><\n>
+
+Chan (HEX/DEC/BIN): 6/6/110<\r><\n>
+
+Optn (HEX/DEC/BIN): 44/68/1000100<\r><\n>
+
+Addr (HEX/DEC/BIN): 0/0/0<\r><\n>
+
+<\r><\n>
+
+SpeedParityBit (HEX/DEC/BIN)    : 0/0/0<\r><\n>
+
+SpeedUARTDataRate (HEX/DEC/BIN) : 3/3/11<\r><\n>
+
+SpeedAirDataRate (HEX/DEC/BIN)  : 2/2/10<\r><\n>
+
+OptionTrans (HEX/DEC/BIN)       : 0/0/0<\r><\n>
+
+OptionPullup (HEX/DEC/BIN)      : 1/1/1<\r><\n>
+
+OptionWakeup (HEX/DEC/BIN)      : 0/0/0<\r><\n>
+
+OptionFEC (HEX/DEC/BIN)         : 1/1/1<\r><\n>
+
+OptionPower (HEX/DEC/BIN)       : 0/0/0<\r><\n>
+
+----------------------------------------<\r><\n>
+
+
 <b><h3>EBYTE Model numbers, not all tested</b></h3>
 
 E22-900T22S, E22-230T22S, E22-400T22S, E22-230T30S, E22-400T30S, E22-900T30S, E30-433T20S3, E30-170T20D, E30-170T27D, E30-780T20S, E30-868T20S, E30-868T20D, E30-915T20D, E30-490T20D, E30-433T20S, E30-433T20D, E30-915T20S, E30-490T20S, E31-433T30S, E31-433T17S3, E31-230T33D, E31-230T17D, E31-230T27D, E31-433T17S, E31-433T17D, E31-433T27D, E31-433T30D, E31-433T33D, E32-433T20DC, E32-433T20S, E32-433T20S2T, E32-433T27D, E32-433T30D, E32-433T30S, E32-868T20D, E32-868T20S, E32-868T30D, E32-868T30S,
